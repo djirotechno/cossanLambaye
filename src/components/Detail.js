@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import styled from "styled-components";
-import db from "../firebase";
+
 import Player from './Player'
 const Detail = props => {
   const movies =[
@@ -34,13 +34,6 @@ const Detail = props => {
 
   return (
     <Container>
-      <Background>
-        <img alt={detailData.title} src={detailData.backgroundImg} />
-      </Background>
-
-      <ImageTitle>
-        <img alt={detailData.title} src={movies.cardImg} />
-      </ImageTitle>
       <ContentMeta>
         <Controls>
           <Player/>
