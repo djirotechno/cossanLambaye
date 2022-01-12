@@ -20,10 +20,10 @@ const Recommends = (props) => {
         <hr/>
       <Content>
         {
-          movies.map((movie, id) => (
-            <Wrap key={movie.id}>
+          movies.map((movie, key) => (
+            <Wrap key={key}>
               
-              <Link to={'/detail/'+ 1}>
+              <Link to={'/detail/'+ movie.id}>
                 <h3>{movie.titre}</h3>
                 <img src={movie.image}  />
               </Link>

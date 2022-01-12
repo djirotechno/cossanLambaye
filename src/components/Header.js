@@ -8,7 +8,9 @@ const Header = (props) => {
   return (
     <Nav>
       <Logo>
-        <img src="" alt="Disney+" />
+        <a href="/">
+        <img src="/assets/logo/CLlogo.png" alt="cossanulambaye" />
+        </a>
       </Logo>
           <NavMenu>
             <a href="/home">
