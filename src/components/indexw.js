@@ -10,7 +10,7 @@ class indexw extends Component {
                 <div>
                     
                     <video autoPlay={true} loop={true} playsInline={true} id="vid">
-                        <source src="https://youtu.be/puRuG_J_j4g" type="video/mp4" />
+                        <source src="/assets/mp3/VideoCL.mp4" type="video/mp4" />
                     </video>
                     <a href="/home">
                     <Button>
