@@ -16,25 +16,25 @@ const ImgSlider = props => {
     <Carousel {...settings}>
       <Wrap>
         <a>
-          <img src="/images/Ablaye.png" alt="" />
+          <img src="assets/slide/Ablaye.png" alt="" />
         </a>
       </Wrap>
 
       <Wrap>
         <a>
-          <img src="/images/Aliou.png" alt="" />
+          <img src="assets/slide/Aliou.png" alt="" />
         </a>
       </Wrap>
 
       <Wrap>
         <a>
-          <img src="/images/Amy.png" alt="" />
+          <img src="assets/slide/Amy.png" alt="" />
         </a>
       </Wrap>
 
       <Wrap>
         <a>
-          <img src="/images/Fatou.png" alt="" />
+          <img src="assets/slide/Fatou.png" alt="" />
         </a>
       </Wrap>
     </Carousel>

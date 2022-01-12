@@ -24,7 +24,7 @@ const src = [
               <Row>
                 <Col size={5}>
                   <Image>
-                   <img src="/images/slamer/cosaanulambaayAD.png"/>
+                   <img src="/assets/slamer/cosaanulambaayAD.png"/>
                   </Image>
                   <br/>
                     <ThemeProvider theme={muiTheme}>
@@ -89,7 +89,6 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque
                 </Col>
               </Row>
               <hr/>
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
 
           </Container>
         </div>
@@ -108,7 +107,7 @@ const Container = styled.main`
   padding: 0 calc(3.5vw + 5px);
 
   &:after {
-    background: url("/images/home-background.png") center center / cover
+    background: url("/assets/home-background.png") center center / cover
       no-repeat fixed;
     content: "";
     position: absolute;

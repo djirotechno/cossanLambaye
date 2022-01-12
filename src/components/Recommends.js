@@ -1,57 +1,31 @@
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-
+import movies from '../db.json' 
 import FormatListBulletedIcon from '@mui/icons-material/FormatListBulleted';
 
 const Recommends = (props) => {
-  const movies =[
-    {
-    id:0,
-    title:"chevale",
-    cardImg:"/images/slamer/cosaanulambaayAT.png"
-  },
-
-  {
-    id:1,
-    title:"chevale",
-    cardImg:"/images/slamer/cosaanulambaayAD.png"
-  },
-  {
-    id:2,
-    title:"chevale",
-    cardImg:"/images/slamer/cosaanulambaayff.png"
-  },
-  {
-    id:3,
-    title:"chevale",
-    cardImg:"/images/slamer/cosaanulambaayMD.png"
-  },
-]
-
+  
   
 
   return (
-    <Container>
-       
-        
+    <Container> 
       <ListTheme>
       <FormatListBulletedIcon/>
       <h4>
            Themes
         </h4>
-
       </ListTheme>
 
      
         <hr/>
       <Content>
-        {movies &&
-          movies.map((movie, key) => (
-            <Wrap key={key}>
-              {movie.id}
-              <Link to={`/detail/` + movie.id}>
-                <h3>Le chevale</h3>
-                <img src={movie.cardImg} alt={movie.title} />
+        {
+          movies.map((movie, id) => (
+            <Wrap key={movie.id}>
+              
+              <Link to={'/detail/'+ 1}>
+                <h3>{movie.titre}</h3>
+                <img src={movie.image}  />
               </Link>
             </Wrap>
           ))}
@@ -78,8 +52,8 @@ const Container = styled.div`
 
 const Content = styled.div`
   display: grid;
-  grid-gap: 25px;
-  gap: 25px;
+  grid-gap: 20px;
+  gap: 20px;
   grid-template-columns: repeat(4, minmax(0, 1fr));
 
   @media (max-width: 768px) {
@@ -89,6 +63,7 @@ const Content = styled.div`
 
 const Wrap = styled.div`
   padding-top: 56.25%;
+  
   border-radius: 10px;
   box-shadow: rgb(0 0 0 / 69%) 0px 26px 30px -10px,
     rgb(0 0 0 / 73%) 0px 16px 10px -10px;
@@ -102,7 +77,7 @@ const Wrap = styled.div`
     inset: 0px;
     display: block;
     height: 100%;
-    object-fit: cover;
+    object-fit:cover;
     opacity: 1;
     position: absolute;
     transition: opacity 500ms ease-in-out 0s;

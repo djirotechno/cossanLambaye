@@ -12,20 +12,20 @@ const Header = (props) => {
       </Logo>
           <NavMenu>
             <a href="/home">
-              <img src="/images/home-icon.svg" alt="HOME" />
+              
               <span>HOME</span>
             </a>
             
-            <a>
+            <a href="/propos">
               
-              <span>Le PROJET</span>
+              <span>LE PROJET</span>
             </a>
             
-            <a>
+            <a href="/lambaye">
              
               <span>LAMBAYE</span>
             </a>
-            <a>
+            <a href="/partenaire">
               
               <span>PARTENAIRES</span>
             </a> 
