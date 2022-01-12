@@ -19,7 +19,7 @@ const Detail = (props) => {
   return (
     <Container>
       <ContentMeta>
-      {   listes.filter((list)=>list.id === id).map((list)=>(
+      {   listes.filter((list)=>list.id == id).map((list)=>(
         <Controls key={list.id}>
         <hr/>
 
