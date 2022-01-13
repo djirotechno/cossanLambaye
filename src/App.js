@@ -16,7 +16,7 @@ function App() {
      <Router>
        <Header/>
        <Routes>
-         <Route exact path="*" element={<Indexw/>}/>
+         <Route exact path="/" element={<Indexw/>}/>
          <Route exact path="/home" element={<Home/>}/>
          <Route exact path="/propos" element={<Propos/>}/>
          <Route exact path="/lambaye" element={<Lambaye/>}/>

@@ -18,10 +18,13 @@ const Detail = (props) => {
 
   return (
     <Container>
-      <ContentMeta>
-      {   listes.filter((list)=>list.id == id).map((list)=>(
-        <Controls key={list.id}>
         <hr/>
+
+      <ContentMeta>
+        
+      {   listes.filter((list)=>list.id == id).map((list)=>(
+        
+        <Controls key={list.id}>
 
      
         <Row >
@@ -68,33 +71,17 @@ const Detail = (props) => {
             <Col size={6}>
             <ScrollDiv>
                 <ScrollContent>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. A quae fuga quam eaque illo animi assumenda totam vel reiciendis, error vitae? Tenetur corporis quasi molestiae rerum voluptatum quam, voluptas nisi.
+                            {list.texts}
                 </ScrollContent>
       
                </ScrollDiv>
                 </Col>
         </Row>
 
-          <hr/>
         </Controls>
         ))}
+          <hr/>
+
         <Description></Description>
       </ContentMeta>
     </Container>

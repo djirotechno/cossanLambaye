@@ -4,7 +4,41 @@
         "theme":"La bataille de Sanghai Mbol",
         "auteur":"ablaye",
         "image":"/assets/slamer/ablaye.jpeg",
-        "audio":"/assets/mp3/amytine.mp4"
+        "audio":"/assets/mp3/amytine.mp4",
+        "texts":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        
+
+    },
+    {
+        "id":2,
+        "theme":"La bataille de Sanghai Mbol",
+        "auteur":"ablaye",
+        "image":"/assets/slamer/ablaye.jpeg",
+        "audio":"/assets/mp3/amytine.mp4",
+        "texts":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+
+        
+
+    },
+    {
+        "id":3,
+        "theme":"La bataille de Sanghai Mbol",
+        "auteur":"ablaye",
+        "image":"/assets/slamer/ablaye.jpeg",
+        "audio":"/assets/mp3/amytine.mp4",
+        "texts":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+
+        
+
+    },
+    {
+        "id":4,
+        "theme":"La bataille de Sanghai Mbol",
+        "auteur":"ablaye",
+        "image":"/assets/slamer/ablaye.jpeg",
+        "audio":"/assets/mp3/amytine.mp4",
+        "texts":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+
         
 
     }
