@@ -22,7 +22,6 @@ function App() {
          <Route exact path="/lambaye" element={<Lambaye/>}/>
          <Route exact path="/partenaire" element={<Partenaire/>}/>
          <Route exact path="/detail/:id" element={<Detail/>} />
-
        </Routes>
      </Router>
     </div>

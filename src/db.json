@@ -5,7 +5,13 @@
         "auteur":"ablaye",
         "image":"/assets/slamer/ablaye.jpeg",
         "audio":"/assets/mp3/amytine.mp4",
-        "texts":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        "texts":
+        [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        ]
         
 
     },
@@ -15,7 +21,13 @@
         "auteur":"ablaye",
         "image":"/assets/slamer/ablaye.jpeg",
         "audio":"/assets/mp3/amytine.mp4",
-        "texts":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        "texts":
+        [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        ]
 
         
 
@@ -26,7 +38,13 @@
         "auteur":"ablaye",
         "image":"/assets/slamer/ablaye.jpeg",
         "audio":"/assets/mp3/amytine.mp4",
-        "texts":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        "texts":
+        [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        ]
 
         
 
@@ -37,7 +55,13 @@
         "auteur":"ablaye",
         "image":"/assets/slamer/ablaye.jpeg",
         "audio":"/assets/mp3/amytine.mp4",
-        "texts":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        "texts":
+        [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
+        ]
 
         
 
