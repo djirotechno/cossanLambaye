@@ -23,7 +23,7 @@ const Detail = (props) => {
 
      
         <Row >
-          <Col size={5}>
+          <Col size={6}>
             <Image>
               <img src={list.image}/>
             </Image>
@@ -35,7 +35,7 @@ const Detail = (props) => {
                 variation="default"
                 spacing={3}
                 download={false}
-                autoplay={false}
+                autoplay={true}
                 order="standart"
                 preload="auto"
                 loop={true}
@@ -64,12 +64,12 @@ const Detail = (props) => {
                 </Social>
             </Col>
             <Col size={6}>
-            <ScrollDiv>
-                <ScrollContent>
-                            {list.texts}
-                </ScrollContent>
+           
+              
+                          <iframe src={list.texts} title="rôledesFaras" height="500px" width="800px" />
+              
       
-               </ScrollDiv>
+            
                 </Col>
         </Row>
 
@@ -194,8 +194,8 @@ const ScrollContent = styled.div`
 box-shadow: rgb(0 0 0 / 69%) 0px 26px 30px -10px,
     rgb(0 0 0 / 73%) 0px 16px 10px -10px;
 height:800px;
-width:px;
-padding:20px;
+width:800px;
+padding:27px;
 
 `;
 export default Detail;

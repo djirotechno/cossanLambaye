@@ -1,71 +1,85 @@
 [
     {
         "id":1,
-        "theme":"La bataille de Sanghai Mbol",
-        "auteur":"ablaye",
+        "theme":"Le role des faras",
+        "auteur":"Aliou DIOUF",
         "image":"/assets/slamer/ablaye.jpeg",
-        "audio":"/assets/mp3/amytine.mp4",
-        "texts":
-        [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
-        ]
+        "audio":"https://www.mboxdrive.com/Aliou%20Diouf.mp3",
+        "texts":"/textes/rôledesFaras.pdf"
+            
+            
+
+            
+        
         
 
     },
     {
         "id":2,
-        "theme":"La bataille de Sanghai Mbol",
-        "auteur":"ablaye",
+        "theme":"site Historique-cayor baol",
+        "auteur":"Nogaye Gaye",
         "image":"/assets/slamer/ablaye.jpeg",
-        "audio":"/assets/mp3/amytine.mp4",
-        "texts":
-        [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
-        ]
+        "audio":"https://www.mboxdrive.com/Nogaye%20Gaye.mp3",
+        "texts":"/textes/SitesHistoriques.pdf"
 
         
 
     },
     {
         "id":3,
-        "theme":"La bataille de Sanghai Mbol",
-        "auteur":"ablaye",
+        "theme":"le village de lambaye",
+        "auteur":"Fatou Fall",
         "image":"/assets/slamer/ablaye.jpeg",
-        "audio":"/assets/mp3/amytine.mp4",
-        "texts":
-        [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
-        ]
+        "audio":"https://www.mboxdrive.com/Fatou%20Fall.mp3",
+        "texts":"/textes/villagedelambaye.pdf"
 
         
 
     },
     {
         "id":4,
-        "theme":"La bataille de Sanghai Mbol",
-        "auteur":"ablaye",
+        "theme":"Le role de l'arbre",
+        "auteur":"Amy Tine",
         "image":"/assets/slamer/ablaye.jpeg",
-        "audio":"/assets/mp3/amytine.mp4",
-        "texts":
-        [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."
-        ]
+        "audio":"https://www.mboxdrive.com/Amy%20Tine.mp3",
+        "texts":"/textes/rôledelarbre.pdf"
+        
+
+    },
+
+    {
+        "id":5,
+        "theme":"Le role du cheval",
+        "auteur":"Moussa DIOUF",
+        "image":"/assets/slamer/ablaye.jpeg",
+        "audio":"https://www.mboxdrive.com/Moussa%20Diouf.mp3",
+        "texts":"/textes/rôleducheval.pdf"
+
+        
+
+    },
+    {
+        "id":6,
+        "theme":"La bataille de ndiardem",
+        "auteur":"Thierno Sene",
+        "image":"/assets/slamer/ablaye.jpeg",
+        "audio":"https://www.mboxdrive.com/Thierno%20Sene.mp3",
+        "texts":"/textes/BatailledeNiarndem"
+
+        
+
+    },
+    {
+        "id":7,
+        "theme":"Le nom des teñes",
+        "auteur":"Ablaye Ndiaye",
+        "image":"/assets/slamer/ablaye.jpeg",
+        "audio":"https://www.mboxdrive.com/ablaye%20ndiaye.mp3",
+        "texts":"/textes/NomsdesTeeñs.pdf"
 
         
 
     }
-
-
 ]
+
+
