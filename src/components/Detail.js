@@ -11,6 +11,8 @@ import {FacebookShareButton,FacebookIcon, FacebookMessengerIcon, TwitterShareBut
 const Detail = (props) => {
   const muiTheme = createTheme({});
   const { id } = useParams(); 
+
+  const ID = "'https://cossanlambaye.herokuapp.com/'"
   return (
     <Container>
         <hr/>
@@ -47,30 +49,29 @@ const Detail = (props) => {
               <Social>
         
                   <FacebookShareButton 
-                  url={'https://studentsforsenegal.org'}
-                  >
+                   url='https://cossanlambaye.herokuapp.com'
+                   quote={list.theme}>
+                  
                     <FacebookIcon size={40} round={true}/>
                   </FacebookShareButton>
 
                   <TwitterShareButton 
-                  url='https://studentsforsenegal.org'>
+                  url='https://cossanlambaye.herokuapp.com'
+                  quote={list.theme}>
                     <TwitterIcon size={40} round={true}/>
                   </TwitterShareButton>
 
                   <LinkedinShareButton 
-                  url='https://studentsforsenegal.org'>
+              
+              url='https://cossanlambaye.herokuapp.com'
+              quote={list.theme}>
                       <LinkedinIcon size={40} round={true}/>
                   </LinkedinShareButton>
                 </Social>
             </Col>
             <Col size={6}>
-           
-              
-                          <iframe src={list.texts} title="rôledesFaras" height="500px" width="800px" />
-              
-      
-            
-                </Col>
+              <iframe src={list.texts} title="rôledesFaras" height="500px" width="800px" />
+            </Col>
         </Row>
 
         </Controls>
