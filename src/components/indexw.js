@@ -9,12 +9,12 @@ class indexw extends Component {
         
                 <div>
                     
-                    <video autoPlay={true} loop={true} playsInline={true} id="vid">
+                    <video autoPlay={true} loop={true} playsInline={true} id="vid" height="">
                         <source src="/assets/mp3/VideoCL.mp4" type="video/mp4" />
                     </video>
                     <a href="/home">
                     <Button>
-                       DAL LEN AK DIAM
+                       DALLEN  AK  DIAM
                     </Button>
                     </a> 
                 </div>
@@ -30,14 +30,14 @@ position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: #555;
+    background-color: #132e12;;
     color: white;
-    font-size: 16px;
+    font-size: 30px;
     padding: 12px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
-
+    display:block;
 `;
 
 

@@ -3,7 +3,7 @@
         "id":1,
         "theme":"Le role des faras",
         "auteur":"Aliou DIOUF",
-        "image":"/assets/slamer/ablaye.jpeg",
+        "image":"/assets/slamer/AD.png",
         "audio":"https://www.mboxdrive.com/les_farra_AliouDiouf.mp3",
         "texts":"/textes/rôledesFaras.pdf"
             
@@ -18,7 +18,7 @@
         "id":2,
         "theme":"site Historique-cayor baol",
         "auteur":"Nogaye Gaye",
-        "image":"/assets/slamer/ablaye.jpeg",
+        "image":"/assets/slamer/NG.png",
         "audio":"https://www.mboxdrive.com/NogayeGaye.mp3",
         "texts":"/textes/SitesHistoriques.pdf"
 
@@ -29,7 +29,7 @@
         "id":3,
         "theme":"le village de lambaye",
         "auteur":"Fatou Fall",
-        "image":"/assets/slamer/ablaye.jpeg",
+        "image":"/assets/slamer/FF.png",
         "audio":"https://www.mboxdrive.com/lambaye_FatouFall.mp3",
         "texts":"/textes/villagedelambaye.pdf"
 
@@ -40,7 +40,7 @@
         "id":4,
         "theme":"Le role de l'arbre",
         "auteur":"Amy Tine",
-        "image":"/assets/slamer/ablaye.jpeg",
+        "image":"/assets/slamer/AT.png",
         "audio":"https://www.mboxdrive.com/larbre_AmyTine.mp3",
         "texts":"/textes/rôledelarbre.pdf"
         
@@ -51,7 +51,7 @@
         "id":5,
         "theme":"Le role du cheval",
         "auteur":"Moussa DIOUF",
-        "image":"/assets/slamer/ablaye.jpeg",
+        "image":"/assets/slamer/MD.png",
         "audio":"https://www.mboxdrive.com/chevale_MoussaDiouf.mp3",
         "texts":"/textes/rôleducheval.pdf"
 
@@ -62,7 +62,7 @@
         "id":6,
         "theme":"La bataille de ndiardem",
         "auteur":"Thierno Sene",
-        "image":"/assets/slamer/ablaye.jpeg",
+        "image":"/assets/slamer/TS.png",
         "audio":"https://www.mboxdrive.com/bataille_ndiardemThiernoSene.mp3",
         "texts":"/textes/BatailledeNdiarndem.pdf"
 
@@ -73,7 +73,18 @@
         "id":7,
         "theme":"Le nom des teñes",
         "auteur":"Ablaye Ndiaye",
-        "image":"/assets/slamer/ablaye.jpeg",
+        "image":"/assets/slamer/AN.png",
+        "audio":"https://www.mboxdrive.com/lestegnes_ablayendiaye.mp3",
+        "texts":"/textes/NomsdesTeens.pdf"
+
+        
+
+    },
+    {
+        "id":8,
+        "theme":"La bataille de saxarna",
+        "auteur":"Ablaye Ndiaye",
+        "image":"/assets/slamer/Xasarna.png",
         "audio":"https://www.mboxdrive.com/lestegnes_ablayendiaye.mp3",
         "texts":"/textes/NomsdesTeens.pdf"
 

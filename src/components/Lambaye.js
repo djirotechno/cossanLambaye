@@ -7,6 +7,23 @@ class Lambaye extends Component {
         <Container>
             <div>
               
+            <br/>
+                <h2>Lambaye</h2>
+                <blockquote>
+                    <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."</p>
+                </blockquote>
+                <h2>Sites Historiques</h2>
+                <blockquote>
+                <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."</p>
+                </blockquote>
+                
+              
             </div>
         </Container>
         )
