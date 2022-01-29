@@ -9,20 +9,23 @@ class Lambaye extends Component {
               
             <br/>
                 <h2>Lambaye</h2>
+                <hr/>
                 <blockquote>
-                    <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."</p>
+                    <p>"Lambaye est une commune située  au Centre -Ouest-du Sénégal. Elle fait partie du département de Bambey et de la région de Diourbel. 
+                        La commune de Lambaye compte plus de 30 0000 habitants et est chef-lieu d'arrondissement avec quatre communes : Réfane, Ngogom, Gawane et Lambaye.
+                    </p>
+                    <p>
+                    Sur le plan historique, Lambaye occupe une place importante dans l’histoire du Sénégal. Elle fut la capitale du royaume du Bawol où résidaient les Teeñs. Le nom Lambaye vient du nom d’un vieux berger : Lambane Sene. 
+                       
+                     Les activités économiques sont :l'agriculture l'élevage et le commerce
+                    </p>
                 </blockquote>
                 <h2>Sites Historiques</h2>
+                <hr/>
                 <blockquote>
-                <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque nam at, odio voluptatem voluptates molestias, inventore nulla nobis soluta asperiores adipisci! Rem modi minima quo. Sunt, doloribus quibusdam. Ex, sequi."</p>
+                <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1WgxfgMVwtnhYj6wysX7stlHZ23Jkc-nl&ehbc=2E312F" width="900" height="480"></iframe>
+                lorem
                 </blockquote>
-                
               
             </div>
         </Container>
