@@ -14,7 +14,7 @@ class indexw extends Component {
                     </video>
                     <a href="/home">
                     <Button>
-                       DALLEN  AK  DIAM
+                       DAL LEEN  AK  JAM
                     </Button>
                     </a> 
                 </div>
